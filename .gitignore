@@ -1,0 +1,92 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+
+# Build and dependency directories
+node_modules/
+dist/
+build/
+out/
+bin/
+obj/
+target/
+
+# Dependency lock files (optional, uncomment if you want to ignore these)
+# package-lock.json
+# yarn.lock
+# poetry.lock
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+
+# Java-specific
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# C/C++-specific
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Sensitive or local configuration files
+.env
+*.env
+*.local
+*.secret
+*.key
+*.pem
+*.cert
+
+# Testing and coverage
+coverage/
+*.lcov
+test-results/
+
+# Miscellaneous
+*.swp
+*.swo
+*.pid
+*.seed
+*.pid.lock
+
+# Project-specific directories (add your own as needed)
+dist-static/
+public/
+assets/
